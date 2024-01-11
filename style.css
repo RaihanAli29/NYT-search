@@ -1,0 +1,15 @@
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Title Section */
+.title {
+  background-color: #080e4b;
+  text-align: center;
+  font-size: 2.5em;
+  padding: 2%;
+  color: white;
+  border-radius: 5px;
+  margin: 0 auto;
+  max-width: 100%;
+}
